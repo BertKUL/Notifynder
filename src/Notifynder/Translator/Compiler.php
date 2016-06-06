@@ -79,7 +79,7 @@ class Compiler
      */
     protected function cachePath()
     {
-        return storage_path('app/notifynder');
+        return 'notifynder';
     }
 
     /**
